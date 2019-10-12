@@ -2,6 +2,10 @@ Anki Server
 ===========
 https://zhuanlan.zhihu.com/p/25042942
 
+pip install webob PasteDeploy PasteScript sqlalchemy simplejson -i https://pypi.tuna.tsinghua.edu.cn/simple
+
+easy_install AnkiServer-2.0.6.tar.gz
+
 
 **NOTE: Maintenance of this project has moved to a** `new GitHub project <https://github.com/ankicommunity/anki-sync-server>`_.
 
