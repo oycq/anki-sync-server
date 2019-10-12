@@ -1,5 +1,7 @@
 Anki Server
 ===========
+https://zhuanlan.zhihu.com/p/25042942
+
 
 **NOTE: Maintenance of this project has moved to a** `new GitHub project <https://github.com/ankicommunity/anki-sync-server>`_.
 
@@ -28,6 +30,8 @@ If you have ``easy_install`` or ``pip`` on your system, you can
 simply run::
 
    $ easy_install AnkiServer
+   
+   $ sudo python /usr/lib/python2.7/dist-packages/easy_install.py AnkiServer
 
 Or using ``pip``::
 
